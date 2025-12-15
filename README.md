@@ -1,5 +1,19 @@
-## Hi there 👋
+Hi ! Im hmgmishia. please call me Misha.
+I mainly work as a Unity engineer.
 
+The achievements below are mine, but most of them are private, so it might look like I haven’t been very active publicly.
+
+my stats
+<p align="left">
+  <a href="https://github.com/hmgmishia">
+    <img height="20" src="https://komarev.com/ghpvc/?username=hmgmishia" />
+  </a>
+  <a href="https://github.com/hmgmishia">
+    <img height="20" src="https://img.shields.io/github/followers/hmgmishia?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmgmishia&stats_format=bytes)
 <!--
 **hmgmishia/hmgmishia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
