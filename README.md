@@ -15,11 +15,6 @@ my stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmgmishia&stats_format=bytes)
 
-my services 
-- (WIP) https://hmgm-texture-packer.vercel.app
-
-An AI-built texture packer, coming to the web and a companion app.
-
 <!--
 **hmgmishia/hmgmishia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
